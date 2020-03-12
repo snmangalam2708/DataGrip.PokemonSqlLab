@@ -1,0 +1,7 @@
+USE pokemon;
+SHOW TABLES;
+SELECT * FROM types;
+
+SELECT * FROM types WHERE id = 45;
+
+
